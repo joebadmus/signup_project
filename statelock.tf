@@ -6,7 +6,7 @@ provider "aws" {
 terraform {
   backend "s3" {
     bucket         = "joebadmus-dev-signup-backend"
-    key            = "infra/network/terraform.tfstate"
+    key            = "infra/application/terraform.tfstate"
     dynamodb_table = "terraform-state-lock-dev-signup"
     region         = "eu-west-2"
   }
