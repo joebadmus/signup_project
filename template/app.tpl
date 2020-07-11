@@ -10,7 +10,9 @@ yum install -y python3
 yum install python-pip -y
 pip install flask
 
-export AWS_ACCESS_KEY_ID=AKIA2WMUSPUJJEP6K7VM
+export AWS_ACCESS_KEY_ID=AXXXXXXXXXXXXXXXXXXM
 
-export AWS_SECRET_ACCESS_KEY=bnCHKtt0SqvAHpplBia3uCC4tQyONXFC4fCBwh7H
+export AWS_SECRET_ACCESS_KEY=bXXXXXXXXXXXXXXXXXXXXXXXXH
+
+
 
